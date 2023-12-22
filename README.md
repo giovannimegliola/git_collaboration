@@ -97,3 +97,4 @@ php artisan make:controller NomeController
 # creo le views relative
 
 ```
+xmas
